@@ -1,10 +1,10 @@
-# Gold Rate Monitor Chrome Extension
+# Weather Monitor Chrome Extension
 
-This Chrome extension allows you to monitor gold rates using Google's Gemini AI and receive email notifications when the rate reaches your specified target.
+This Chrome extension allows you to monitor weather using Google's Gemini AI and receive email notifications when the temperature reaches your specified target.
 
 ## Features
 
-- Monitor gold rates for different countries using Gemini AI
+- Monitor weather different states using Gemini AI
 - Set target rates for notifications
 - Receive email notifications when target rate is reached
 - Browser notifications for rate alerts
